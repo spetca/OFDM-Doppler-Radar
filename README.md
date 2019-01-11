@@ -1,12 +1,12 @@
 To Run [ON LINUX]:
 
-1. Download all .m files and place in same directory
+1. Clone repository to local machine
 
 2. open two separate terminal sessions
 
 3. In each start matlab
 
-4. In a 1 instance of matlab open runOFDMradarRx.m - This script compiles and runs:
+4. In 1 instance of matlab open runOFDMradarRx.m - This script compiles and runs:
 -  runOFDMradarRx.m
 -  velocity1B.m
 
