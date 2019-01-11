@@ -1,4 +1,9 @@
-# To Run [ON LINUX]:
+# OFDM Based Doppler Radar 
+
+### This project is based on the thesis written here: 
+### it requires MATLAB, the MATLAB USRP communications toolbox, and 2 USRPs 
+
+## To Run [ON LINUX]:
 
 1. Clone repository to local machine
 
