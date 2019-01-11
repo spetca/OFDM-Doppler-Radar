@@ -1,7 +1,15 @@
 # OFDM Based Doppler Radar 
 
-### This project is based on the thesis written here: 
-### it requires MATLAB, the MATLAB USRP communications toolbox, and 2 USRPs 
+This project is the code complimenting this thesis: 
+it requires MATLAB, the MATLAB USRP communications toolbox, and 2 USRPs 
+
+Photos of the application running: 
+
+## Car driving away from radar
+![alt text](https://github.com/spetca/OFDM-Doppler-Radar/blob/master/imgs/img1.png)
+
+## Car driving towards radar
+![alt text](https://github.com/spetca/OFDM-Doppler-Radar/blob/master/imgs/img2.png)
 
 ## To Run [ON LINUX]:
 
