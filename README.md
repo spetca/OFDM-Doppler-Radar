@@ -1,6 +1,7 @@
 # OFDM Based Doppler Radar 
 
 This project is the code complimenting this thesis: 
+
 it requires MATLAB, the MATLAB USRP communications toolbox, and 2 USRPs 
 
 Photos of the application running: 
